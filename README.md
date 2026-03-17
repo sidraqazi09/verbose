@@ -1,1 +1,1 @@
-# verbose
+This file contains HTMl basics
